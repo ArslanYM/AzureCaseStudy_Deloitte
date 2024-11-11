@@ -3,8 +3,7 @@
 
 
 ## Contents 
-- [Power BI File]()
-- [Snapshots of Code]()
-- [Snapshots of Power BI]()
-- [DataBricks Notebook]()
-- [Presentation]()
+- [Power BI File](https://github.com/ArslanYM/AzureCaseStudy_Deloitte/tree/main/PBIX%20file)
+- [Snapshots of Power BI](https://github.com/ArslanYM/AzureCaseStudy_Deloitte/tree/main/Snapshots%20of%20Power%20BI)
+- [DataBricks Notebook](https://github.com/ArslanYM/AzureCaseStudy_Deloitte/tree/main/Databricks%20Notebook)
+- [Presentation](https://github.com/ArslanYM/AzureCaseStudy_Deloitte/tree/main/Final%20Presentation)
