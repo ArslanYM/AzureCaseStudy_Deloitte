@@ -1,5 +1,5 @@
 # Case Study for Retail Data 
-- This case study has been produced by Arslan Malik, Madhur Agarwal & Dhiraj Paudel
+- This solution has been presented by Arslan Malik, Madhur Agarwal & Dhiraj Paudel
 
 
 ## Contents 
@@ -7,3 +7,4 @@
 - [Snapshots of Code]()
 - [Snapshots of Power BI]()
 - [DataBricks Notebook]()
+- [Presentation]()
